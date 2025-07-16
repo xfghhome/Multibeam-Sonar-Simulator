@@ -1,0 +1,8 @@
+*.mat
+*.asv
+*.dat
+*.fig
+/.idea/*
+/.vscode/*
+/DataCalculated/*
+/OutputChannelData/*
